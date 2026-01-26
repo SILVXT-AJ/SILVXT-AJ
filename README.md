@@ -1,8 +1,9 @@
 # Hi, I'm Silvest AJ.
-<div>
+<div align="center">
 I am a **Full Stack Developer** and **Web Designer** based in India. I focus on building clean, functional web applications using Python, Flask, and modern frontend technologies.
 
 Currently pursuing my BCA and exploring the intersection of robust backend architecture and minimalist design.
+
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
