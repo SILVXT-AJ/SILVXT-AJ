@@ -26,7 +26,7 @@ Currently pursuing my BCA and exploring the intersection of robust backend archi
 I am a **Full Stack Developer** and **Web Designer** . I specialize in building scalable web applications using **Python** and **Flask**, while ensuring pixel-perfect frontend designs.
 
 - 🔭 I’m currently working on **Enterprise Asset Management Systems**
-- 🌱 I’m currently learning **Advanced Java & Cloud Architecture**
+
 - ⚡ **Fun fact:** I can center a `div` on the first try.
 
 ---
