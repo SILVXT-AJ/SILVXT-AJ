@@ -1,15 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Hello%20World,%20I'm%20Silvest%20AJ&fontSize=50&fontColor=ffffff&fontAlignY=35" alt="Header" width="100%"/>
-</div>
+# Hi, I'm Silvest AJ.
+<div>
+I am a **Full Stack Developer** and **Web Designer** based in India. I focus on building clean, functional web applications using Python, Flask, and modern frontend technologies.
 
-<div align="center">
-  
-  ### 🚀 BCA Student & Full Stack Developer
-  
-  <p>
-    <em>"Architecting digital experiences through a lens of brutalist minimalism and robust backend logic."</em>
-  </p>
-
+Currently pursuing my BCA and exploring the intersection of robust backend architecture and minimalist design.
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
