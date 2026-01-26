@@ -1,5 +1,6 @@
 # Hi, I'm Silvest AJ.
 <div align="center">
+  
 I am a **Full Stack Developer** and **Web Designer** based in India. I focus on building clean, functional web applications using Python, Flask, and modern frontend technologies.
 
 Currently pursuing my BCA and exploring the intersection of robust backend architecture and minimalist design.
