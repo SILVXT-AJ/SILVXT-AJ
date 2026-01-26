@@ -1,7 +1,7 @@
 # Hi, I'm Silvest AJ.
 <div align="center">
   
-I am a **Full Stack Developer** and **Web Designer** based in India. I focus on building clean, functional web applications using Python, Flask, and modern frontend technologies.
+I am a **Full Stack Developer** and **Web Designer** . I focus on building clean, functional web applications using Python, Flask, and modern frontend technologies.
 
 Currently pursuing my BCA and exploring the intersection of robust backend architecture and minimalist design.
 
@@ -23,11 +23,10 @@ Currently pursuing my BCA and exploring the intersection of robust backend archi
 
 ### 👨‍💻 **About Me**
 
-I am a **Full Stack Developer** and **Web Designer** based in India. I specialize in building scalable web applications using **Python** and **Flask**, while ensuring pixel-perfect frontend designs.
+I am a **Full Stack Developer** and **Web Designer** . I specialize in building scalable web applications using **Python** and **Flask**, while ensuring pixel-perfect frontend designs.
 
 - 🔭 I’m currently working on **Enterprise Asset Management Systems**
 - 🌱 I’m currently learning **Advanced Java & Cloud Architecture**
-- 💼 I’m looking for opportunities in **Backend Development**
 - ⚡ **Fun fact:** I can center a `div` on the first try.
 
 ---
@@ -66,7 +65,6 @@ I am a **Full Stack Developer** and **Web Designer** based in India. I specializ
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SILVXT-AJ&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f172a" alt="Silvest's Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SILVXT-AJ&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f172a" alt="Top Languages" height="180"/>
 </div>
 
